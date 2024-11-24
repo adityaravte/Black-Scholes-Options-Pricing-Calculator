@@ -167,7 +167,7 @@ fig6.tight_layout()
 
 
 st.markdown("<h2 align='center'>Black-Scholes Option Price Calculator</h2>", unsafe_allow_html=True)
-st.markdown("<h5 align='center'>Made by Tiago Moreira</h5>", unsafe_allow_html=True)
+st.markdown("<h5 align='center'>Made by Aditya Ravte</h5>", unsafe_allow_html=True)
 st.header("")
 st.markdown("<h6>See project's description and assumptions here: <a href='https://github.com/TFSM00/Black-Scholes-Calculator'>https://github.com/TFSM00/Black-Scholes-Calculator</a></h6>", unsafe_allow_html=True)
 st.markdown("<h6>See all my other projects here: <a href='https://github.com/TFSM00'>https://github.com/TFSM00</a></h6>", unsafe_allow_html=True)
